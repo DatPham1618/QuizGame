@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e71c2657725594aa24ec442e5b250d, type: 3}
+  m_Name: New Question 1
+  m_EditorClassIdentifier: 
+  question: "M\xE0u c\u1EE7a b\u1EA7u tr\u1EDDi l\xE0 g\xEC v\xE0o m\u1ED9t ng\xE0y
+    kh\xF4ng m\xE2y?\r"
+  answers:
+  - A. Xanh
+  - "B. \u0110\u1ECF"
+  - "C. V\xE0ng"
+  - "D. X\xE1m"
+  correctAnswer: 0

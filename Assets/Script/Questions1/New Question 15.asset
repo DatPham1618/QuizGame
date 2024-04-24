@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e71c2657725594aa24ec442e5b250d, type: 3}
+  m_Name: New Question 15
+  m_EditorClassIdentifier: 
+  question: "N\u0103m 2021, c\xF4ng ty n\xE0o tr\u1EDF th\xE0nh c\xF4ng ty \u0111\u1EA7u
+    ti\xEAn tr\xEAn th\u1EBF gi\u1EDBi c\xF3 gi\xE1 tr\u1ECB v\u1ED1n h\xF3a th\u1ECB
+    tr\u01B0\u1EDDng \u0111\u1EA1t 3 ngh\xECn t\u1EF7 \u0111\xF4 la M\u1EF9?"
+  answers:
+  - A. Amazon
+  - 'B. Apple '
+  - 'C. Microsoft '
+  - D. Google
+  correctAnswer: 1

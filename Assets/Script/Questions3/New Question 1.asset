@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e71c2657725594aa24ec442e5b250d, type: 3}
+  m_Name: New Question 1
+  m_EditorClassIdentifier: 
+  question: "Lo\u1EA1i vitamin n\xE0o l\xE0 c\u1EA7n thi\u1EBFt cho qu\xE1 tr\xECnh
+    \u0111\xF4ng m\xE1u?"
+  answers:
+  - 'A. Vitamin A '
+  - 'B. Vitamin K '
+  - 'C. Vitamin C '
+  - D. Vitamin E
+  correctAnswer: 1

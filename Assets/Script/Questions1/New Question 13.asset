@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e71c2657725594aa24ec442e5b250d, type: 3}
+  m_Name: New Question 13
+  m_EditorClassIdentifier: 
+  question: "Tr\u1EADn chi\u1EBFn n\xE0o \u0111\u01B0\u1EE3c coi l\xE0 b\u01B0\u1EDBc
+    ngo\u1EB7t c\u1EE7a Chi\u1EBFn tranh th\u1EBF gi\u1EDBi th\u1EE9 hai?"
+  answers:
+  - "A. Tr\u1EADn Stalingrad"
+  - "B. Tr\u1EADn Midway"
+  - "C. Tr\u1EADn Normandy"
+  - "D. Tr\u1EADn Berlin"
+  correctAnswer: 0

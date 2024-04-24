@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e71c2657725594aa24ec442e5b250d, type: 3}
+  m_Name: New Question 9
+  m_EditorClassIdentifier: 
+  question: "\u0110\xE2u l\xE0 b\xE0i h\xE1t c\xF3 doanh thu cao nh\u1EA5t m\u1ECDi
+    th\u1EDDi \u0111\u1EA1i t\xEDnh \u0111\u1EBFn n\u0103m 2024?"
+  answers:
+  - "A. \"Thriller\" c\u1EE7a Michael Jackson"
+  - "B. \"Shape of You\" c\u1EE7a Ed Sheeran"
+  - "C. \"Blinding Lights\" c\u1EE7a The Weeknd"
+  - "D. \"Happy\" c\u1EE7a Pharrell Williams "
+  correctAnswer: 2
